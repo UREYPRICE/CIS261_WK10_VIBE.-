@@ -1,4 +1,4 @@
-# CIS261_WK10_VIBE.-
+
 # CIS261_WK10_VIBE
 
 **Student Grade Calculator** — built with VIBE (Visual Interactive Based Education) in GitHub Codespaces.
